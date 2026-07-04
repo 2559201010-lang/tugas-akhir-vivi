@@ -37,7 +37,7 @@ section {
 }
 
 section:not(#bukutamu) {
-    padding: 80px 0;
+    padding: 80px 40px;
     border-bottom: 1px solid #670A0A;
     max-width: 1000px;
     margin: auto;
